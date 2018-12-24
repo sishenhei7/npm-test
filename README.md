@@ -1,8 +1,8 @@
 <!-- ## vue-cli-plugin-basis -->
-<h2 align="center">vue-cli-plugin-basis</h2>
+<h2 align="center">vue-performance</h2>
 <p align="center">
-  <h4 align="center">Vue-CLI 3.x plugin for YM.</h4>
-  <h4 align="center">Quickly build basic development templates.</h4>
+  <h4 align="center">Vue-Performance plugin</h4>
+  <h4 align="center">Detect and submit the performance of your app.</h4>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 <!-- [![npm](https://img.shields.io/npm/v/vue-performance.svg)](https://www.npmjs.com/package/vue-performance) -->
 
-# performance
+## performance
 
 This is a performance detector package for vue.
 
