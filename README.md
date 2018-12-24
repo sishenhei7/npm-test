@@ -16,7 +16,9 @@
 
 <!-- [![npm](https://img.shields.io/npm/v/vue-performance.svg)](https://www.npmjs.com/package/vue-performance) -->
 
-## performance
+### usage
 
-This is a performance detector package for vue.
+
+
+
 
